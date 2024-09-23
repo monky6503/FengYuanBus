@@ -56,9 +56,9 @@ const menus = [
   {
     title: '相關服務',
     links: [
-      { text: '豐客旅行社', url: '/travelfy' },
+      { text: '豐客旅行社', url: '/' },
       { text: '遊覽車出租', url: '/' },
-      { text: '車輛代檢廠', url: '/buscheck' },
+      { text: '車輛代檢廠', url: '/' },
       { text: '主管機關宣導計畫', url: 'https://www.youtube.com/watch?v=GxAVRLbXJ9w' }
     ]
   }
