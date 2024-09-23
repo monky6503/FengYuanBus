@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swiper-wrapper {
+  transition-timing-function: linear !important;
+}
+.swiper-pagination-bullet-active {
+  background-color: #108313 !important;
+}
+
+@media (min-width: 1400px) {
+  .swiper-pagination-bullet {
+    width: 12px !important;
+    height: 12px !important;
+    margin: 10px !important;
+  }
+}
+.swiper-pagination-bullet {
+  width: 5.4px !important;
+  height: 5.4px !important;
+  margin: 5px !important;
+}
